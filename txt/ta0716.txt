@@ -1,0 +1,84 @@
+if the temperature in the sitting room is below x
+if the temperature in the sitting room is less than x
+if the temperature in the sitting room is lower than x
+if the temperature in the sitting room is above x
+if the temperature in the sitting room is higher than x
+if the temperature in the sitting room is more than x
+if the temperature in the sitting room is between x and y
+if the brightness in the sitting room is below x
+if the brightness in the sitting room is less than x
+if the brightness in the sitting room is lower than x
+if the brightness in the sitting room is above x
+if the brightness in the sitting room is higher than x
+if the brightness in the sitting room is more than x
+if the brightness in the sitting room is between x and y
+if the pm2.5 in the sitting room is below x
+if the pm2.5 in the sitting room is less than x
+if the pm2.5 in the sitting room is lower than x
+if the pm2.5 in the sitting room is above x
+if the pm2.5 in the sitting room is higher than x
+if the pm2.5 in the sitting room is more than x
+if the pm2.5 in the sitting room is between x and y
+if the temperature in the bedroom is below x
+if the temperature in the bedroom is less than x
+if the temperature in the bedroom is lower than x
+if the temperature in the bedroom is above x
+if the temperature in the bedroom is higher than x
+if the temperature in the bedroom is more than x
+if the temperature in the bedroom is between x and y
+if the brightness in the bedroom is below x
+if the brightness in the bedroom is less than x
+if the brightness in the bedroom is lower than x
+if the brightness in the bedroom is above x
+if the brightness in the bedroom is higher than x
+if the brightness in the bedroom is more than x
+if the brightness in the bedroom is between x and y
+if the pm2.5 in the bedroom is below x
+if the pm2.5 in the bedroom is less than x
+if the pm2.5 in the bedroom is lower than x
+if the pm2.5 in the bedroom is above x
+if the pm2.5 in the bedroom is higher than x
+if the pm2.5 in the bedroom is more than x
+if the pm2.5 in the bedroom is between x and y
+if the temperature in the sitting room is below x
+if the temperature in the sitting room is less than x
+if the temperature in the sitting room is lower than x
+if the temperature in the sitting room is above x
+if the temperature in the sitting room is higher than x
+if the temperature in the sitting room is more than x
+if the temperature in the sitting room is between x and y
+if the brightness in the sitting room is below x
+if the brightness in the sitting room is less than x
+if the brightness in the sitting room is lower than x
+if the brightness in the sitting room is above x
+if the brightness in the sitting room is higher than x
+if the brightness in the sitting room is more than x
+if the brightness in the sitting room is between x and y
+if the humidity in the balcony is below x
+if the humidity in the balcony is less than x
+if the humidity in the balcony is lower than x
+if the humidity in the balcony is above x
+if the humidity in the balcony is higher than x
+if the humidity in the balcony is more than x
+if the humidity in the balcony is between x and y
+if the brightness in the balcony is below x
+if the brightness in the balcony is less than x
+if the brightness in the balcony is lower than x
+if the brightness in the balcony is above x
+if the brightness in the balcony is higher than x
+if the brightness in the balcony is more than x
+if the brightness in the balcony is between x and y
+if the humidity in the balcony is below x
+if the humidity in the balcony is less than x
+if the humidity in the balcony is lower than x
+if the humidity in the balcony is above x
+if the humidity in the balcony is higher than x
+if the humidity in the balcony is more than x
+if the humidity in the balcony is between x and y
+if the brightness in the balcony is below x
+if the brightness in the balcony is less than x
+if the brightness in the balcony is lower than x
+if the brightness in the balcony is above x
+if the brightness in the balcony is higher than x
+if the brightness in the balcony is more than x
+if the brightness in the balcony is between x and y

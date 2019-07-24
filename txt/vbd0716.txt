@@ -1,0 +1,90 @@
+turn on the air conditioner in the sitting room .
+turn off the air conditioner in the sitting room .
+open the air conditioner in the sitting room .
+shut down the air conditioner in the sitting room .
+set the temperature of the air conditioner in the sitting room to x .
+turn the temperature of the air conditioner in the sitting room to x .
+turn on the smart light in the sitting room .
+turn off the smart light in the sitting room .
+open the smart light in the sitting room .
+shut down the smart light in the sitting room .
+set the brightness of the smart light in the sitting room to x .
+turn the brightness of the smart light in the sitting room to x .
+turn on the pm2.5 monitor in the sitting room .
+turn off the pm2.5 monitor in the sitting room .
+open the pm2.5 monitor in the sitting room .
+shut down the pm2.5 monitor in the sitting room .
+set the pm2.5 of the pm2.5 monitor in the sitting room to x .
+turn the pm2.5 of the pm2.5 monitor in the sitting room to x .
+turn on the air purifier in the sitting room .
+turn off the air purifier in the sitting room .
+open the air purifier in the sitting room .
+shut down the air purifier in the sitting room .
+set the pm2.5 of the air purifier in the sitting room to x .
+turn the pm2.5 of the air purifier in the sitting room to x .
+turn on the air conditioner in the bedroom .
+turn off the air conditioner in the bedroom .
+open the air conditioner in the bedroom .
+shut down the air conditioner in the bedroom .
+set the temperature of the air conditioner in the bedroom to x .
+turn the temperature of the air conditioner in the bedroom to x .
+turn on the smart light in the bedroom .
+turn off the smart light in the bedroom .
+open the smart light in the bedroom .
+shut down the smart light in the bedroom .
+set the brightness of the smart light in the bedroom to x .
+turn the brightness of the smart light in the bedroom to x .
+turn on the flower monitor in the balcony .
+turn off the flower monitor in the balcony .
+open the flower monitor in the balcony .
+shut down the flower monitor in the balcony .
+set the humidity of the flower monitor in the balcony to x .
+turn the humidity of the flower monitor in the balcony to x .
+turn on the water pump in the balcony .
+turn off the water pump in the balcony .
+open the water pump in the balcony .
+shut down the water pump in the balcony .
+set the humidity of the water pump in the balcony to x .
+turn the humidity of the water pump in the balcony to x .
+turn on the smart fan in the sitting room .
+turn off the smart fan in the sitting room .
+open the smart fan in the sitting room .
+shut down the smart fan in the sitting room .
+set the temperature of the smart fan in the sitting room to x .
+turn the temperature of the smart fan in the sitting room to x .
+what is the status of the air conditioner ?
+is the air conditioner on ?
+is the air conditioner off ?
+what is the status of the smart light ?
+is the smart light on ?
+is the smart light off ?
+what is the status of the pm2.5 monitor ?
+is the pm2.5 monitor on ?
+is the pm2.5 monitor off ?
+what is the status of the air purifier ?
+is the air purifier on ?
+is the air purifier off ?
+what is the status of the air conditioner ?
+is the air conditioner on ?
+is the air conditioner off ?
+what is the status of the smart light ?
+is the smart light on ?
+is the smart light off ?
+what is the status of the flower monitor ?
+is the flower monitor on ?
+is the flower monitor off ?
+what is the status of the water pump ?
+is the water pump on ?
+is the water pump off ?
+what is the status of the smart fan ?
+is the smart fan on ?
+is the smart fan off ?
+what is the temperature of the air conditioner ?
+what is the brightness of the smart light ?
+what is the pm2.5 of the pm2.5 monitor ?
+what is the pm2.5 of the air purifier ?
+what is the temperature of the air conditioner ?
+what is the brightness of the smart light ?
+what is the humidity of the flower monitor ?
+what is the humidity of the water pump ?
+what is the temperature of the smart fan ?

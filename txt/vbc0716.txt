@@ -1,0 +1,57 @@
+monitor the temperature of sitting room .
+increase the temperature of sitting room .
+reduce the temperature of sitting room .
+assign the temperature of sitting room .
+increase the temperature of sitting room .
+reduce the temperature of sitting room .
+assign the temperature of sitting room .
+monitor the brightness of sitting room .
+increase the brightness of sitting room .
+assign the brightness of sitting room .
+monitor the pm2.5 of sitting room .
+reduce the pm2.5 of sitting room .
+monitor the temperature of bedroom .
+increase the temperature of bedroom .
+reduce the temperature of bedroom .
+assign the temperature of bedroom .
+monitor the brightness of bedroom .
+increase the brightness of bedroom .
+assign the brightness of bedroom .
+monitor the temperature of sitting room .
+increase the temperature of sitting room .
+reduce the temperature of sitting room .
+assign the temperature of sitting room .
+increase the temperature of sitting room .
+reduce the temperature of sitting room .
+assign the temperature of sitting room .
+monitor the brightness of sitting room .
+increase the brightness of sitting room .
+assign the brightness of sitting room .
+monitor the humidity of balcony .
+increase the humidity of balcony .
+monitor the humidity of balcony .
+increase the humidity of balcony .
+what is the temperature in the sitting room ?
+what is the brightness in the sitting room ?
+what is the pm2.5 in the sitting room ?
+what is the temperature in the bedroom ?
+what is the brightness in the bedroom ?
+what is the pm2.5 in the bedroom ?
+what is the temperature in the sitting room ?
+what is the brightness in the sitting room ?
+what is the humidity in the balcony ?
+what is the brightness in the balcony ?
+what is the humidity in the balcony ?
+what is the brightness in the balcony ?
+set the temperature of sitting room to x .
+set the brightness of sitting room to x .
+set the pm2.5 of sitting room to x .
+set the temperature of bedroom to x .
+set the brightness of bedroom to x .
+set the pm2.5 of bedroom to x .
+set the temperature of sitting room to x .
+set the brightness of sitting room to x .
+set the humidity of balcony to x .
+set the brightness of balcony to x .
+set the humidity of balcony to x .
+set the brightness of balcony to x .
